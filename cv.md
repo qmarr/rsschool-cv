@@ -1,6 +1,7 @@
 # Vladislav Komarenets
-Student\ 
-Phone: +380969032677\
+Student 
+
+Phone: +380969032677
 Email: komarenetsv@gmail.com
 
 ## Summary
