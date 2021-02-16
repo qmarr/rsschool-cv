@@ -1,1 +1,1 @@
-# rsschool-cv
+https://qmarr.github.io/rsschool-cv/cv
