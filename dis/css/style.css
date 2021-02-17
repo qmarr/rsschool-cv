@@ -42,6 +42,6 @@ code {
 	padding-top: 20px;
 	padding-bottom: 20px;
 }
-.other-content ul {
+.other-content ul, p{
 	font-size: 20px
 }
