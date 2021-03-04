@@ -5,11 +5,14 @@ body {
 h1, h2, h3, h4, h5, h6 {
 	margin: 0;
 }
+p {
+	margin: 0;
+}
 header {
 	background-color: #e1eeec;
 	padding-top: 20px;
 }
-header p {
+header p, ul li, main p {
 	font-size: 22px;
 }
 pre {
@@ -20,6 +23,18 @@ pre {
 }
 code {
 	font-size: 18px;
+}
+footer {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: #d9e7e3;
+}
+footer p {
+	font-size: 22px;
+}
+.header-content p {
+	margin-top: 15px;
+	margin-bottom: 15px;
 }
 #summary-text {
 	width: 500px;
@@ -42,6 +57,6 @@ code {
 	padding-top: 20px;
 	padding-bottom: 20px;
 }
-.other-content ul, p{
+.other-content ul {
 	font-size: 20px
 }
